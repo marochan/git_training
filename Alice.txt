@@ -4,4 +4,5 @@ Another line since we're dealing with branches and merging them!
 
 This is the line that I created on github webpage
 Now I am at rebasing point of the tutorial
+Git stash mechanism is going to be tested here
 
