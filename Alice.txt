@@ -1,4 +1,7 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This change applied here is to test the new branch called change_alice
 Another line since we're dealing with branches and merging them!
+
 This is the line that I created on github webpage
+Now I am at rebasing point of the tutorial
+
