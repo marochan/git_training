@@ -1,2 +1,3 @@
 This is a line written from master branch
-And this is a line from the change alice branch
+And this is a line from the change alice branch 
+Now this is from master - second line. and some stuff from alice too
